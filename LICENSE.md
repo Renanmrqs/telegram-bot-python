@@ -1,6 +1,3 @@
-### ARQUIVO 2: `LICENSE`
-
-```text
 MIT License
 
 Copyright (c) 2026 Renan Fernandes Marques
