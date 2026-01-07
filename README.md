@@ -25,5 +25,5 @@ Você precisará ter o [Python](https://www.python.org/) instalado em sua máqui
 
 1. **Clone o repositório**
    ```bash
-   git clone [https://github.com/SEU-USUARIO/NOME-DO-REPO.git](https://github.com/SEU-USUARIO/NOME-DO-REPO.git)
-   cd NOME-DO-REPO
+   git clone [https://github.com/Renanmrqs/telegram-bot-python](https://github.com/Renanmrqs/telegram-bot-python)
+   
