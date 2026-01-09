@@ -7,6 +7,8 @@ Este projeto é um Chatbot para Telegram desenvolvido em Python. Ele integra mú
 - **🎲 Jogos Nativos:** Integração com animações nativas do Telegram (Dados).
 - **🐶 API Visual:** Consumo da *DogCEO API* para envio de imagens aleatórias.
 - **🔮 API de Texto:** Consumo da *AdviceSlip API* para conselhos e frases de sabedoria.
+- **📌 API de Endereço** Consumo da *ViaCEP* para buscar endereços.
+- **☁️ API de Clima**   Consumo da *Open-Meteo* para buscar o clima.
 - **🛡️ Segurança:** Utilização de variáveis de ambiente (.env) para proteção de credenciais sensíveis.
 
 ## 🛠️ Tecnologias Utilizadas
